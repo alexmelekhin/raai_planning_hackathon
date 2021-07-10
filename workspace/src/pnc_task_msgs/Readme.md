@@ -1,0 +1,1 @@
+Сообщения, используемые PnCDispatcher для связи с компонентами Planner и Controller

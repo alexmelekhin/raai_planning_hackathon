@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>pnc_task_msgs</name>
+  <version>0.1.0</version>
+  <description>The pnc_task_msgs package</description>
+
+  <maintainer email="i.a.radionov@gmail.com">Ivan Radionov</maintainer>
+
+  <license>TODO</license>
+
+  <build_depend>message_generation</build_depend>
+  <exec_depend>message_runtime</exec_depend>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>nav_msgs</depend>
+  <depend>rtp_msgs</depend>
+
+  <export>
+
+  </export>
+</package>
