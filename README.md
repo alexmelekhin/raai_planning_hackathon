@@ -1,3 +1,8 @@
+# О проекте
+
+Выполнен в рамках хакатона летней школы РАИИ "Planning with Thunder".
+Авторы: https://github.com/metra4ok https://github.com/VDStudy https://gitlab.com/ilya0_0 
+
 # Planning with Thunder Workshop
 
 В репозитории представлены подготовительные инструкции, сцены и docker-образы для участия в семинаре __`"Разработка алгоритма планирования движения с использованием платформы AgileX Robotics Thunder"`__ Летней школы Искусственного Интеллекта 2021 (RAAI Summer School 2021).
