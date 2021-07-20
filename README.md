@@ -1,7 +1,7 @@
 # О проекте
 
 Выполнен в рамках хакатона летней школы РАИИ "Planning with Thunder".
-Авторы: https://github.com/metra4ok https://github.com/VDStudy https://gitlab.com/ilya0_0 
+Авторы: https://github.com/metra4ok https://github.com/vd-study https://gitlab.com/ilya0_0 
 
 # Planning with Thunder Workshop
 
